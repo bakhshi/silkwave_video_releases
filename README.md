@@ -1,6 +1,6 @@
-# Silkwave YouTube — Releases
+# Silkwave Video — Releases
 
-Downloads for **Silkwave YouTube**, a macOS app that downloads YouTube videos and
+Downloads for **Silkwave Video**, a macOS app that downloads YouTube videos and
 turns them into searchable transcripts.
 
 This repository holds the release files only. The app's source code is private.
@@ -8,9 +8,9 @@ This repository holds the release files only. The app's source code is private.
 ## Download
 
 Get the newest version from the
-[latest release](https://github.com/bakhshi/silkwave_youtube_releases/releases/latest).
+[latest release](https://github.com/bakhshi/silkwave_video_releases/releases/latest).
 
-Open the `.dmg` file and drag **Silkwave YouTube** into your Applications folder.
+Open the `.dmg` file and drag **Silkwave Video** into your Applications folder.
 
 Requires macOS 26 or later.
 
@@ -19,7 +19,7 @@ Requires macOS 26 or later.
 You do not need to come back here for new versions. The app checks for updates by
 itself, and you can also check at any time from the menu bar:
 
-**Silkwave YouTube › Check for Updates…**
+**Silkwave Video › Check for Updates…**
 
 Every update is signed. The app refuses to install a file that does not carry a
 valid signature, so an update can only come from us.
@@ -33,4 +33,4 @@ valid signature, so an update can only come from us.
 ## Links
 
 - Website: [silkwave.ai](https://silkwave.ai)
-- Problems or questions: open an [issue](https://github.com/bakhshi/silkwave_youtube_releases/issues)
+- Problems or questions: open an [issue](https://github.com/bakhshi/silkwave_video_releases/issues)
